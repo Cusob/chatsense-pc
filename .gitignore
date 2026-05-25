@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+build/
+dist/
+*.spec.bak
+ChatSense.exe
+.chatsense/
+CHECKLIST.md
+*.zip
+.superpowers/
+ChatSense/
+DESIGN.md
+docs/

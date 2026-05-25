@@ -1,0 +1,8 @@
+PyQt6>=6.6
+matplotlib>=3.8
+watchdog>=3.0
+requests>=2.31
+pymem>=1.14
+pycryptodome>=3.20
+# pywxdump  -- recommended for primary key extraction; install: pip install pywxdump
+pysilk
